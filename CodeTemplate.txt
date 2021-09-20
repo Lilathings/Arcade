@@ -2,26 +2,26 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
-//CHANGE ME: Add the title of your game
-//Add your first and last name 
+//Minecraft
+//Lila Mali 
 
 
-if (CHANGE ME: condition # 1) {
-    //Add event below
+if (Player punches block repeatedley) {
+    break block
 } else {
-    //Add event below
+    do not break block
 }
 
-if (CHANGE ME: condition # 2) {
-    //Add event below
+if (player breaks block) {
+    block drops on ground
 } else {
-    //Add event below
+    do not drop block
 }
 
-if (CHANGE ME: condition # 3) {
-    //Add event below
+if (creeper is within 5 blocks of player) {
+    emit hissing sound from creeper
 } else {
-    //Add event below
+    move creeper closer to player
 }
 
 
